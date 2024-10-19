@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.manoj</groupId>
-	<artifactId>06springbtpdb_m</artifactId>
+	<artifactId>05springbtpdb_m</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>06springbtpdb_m</name>
+	<name>05springbtpdb_m</name>
 	<description>Working now database, spring, microservice</description>
 	<properties>
 		<java.version>1.8</java.version>
